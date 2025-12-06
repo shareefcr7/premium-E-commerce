@@ -2,7 +2,7 @@ import React from "react";
 
 export default function ProductCard({ product }) {
   return (
-    <div className="bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 rounded-lg shadow-md overflow-hidden group hover:shadow-xl transition-all duration-300 flex flex-col">
+    <div className="bg-white dark:bg-gray-400 text-gray-900 dark:text-gray-100 rounded-lg shadow-md overflow-hidden group hover:shadow-xl transition-all duration-300 flex flex-col">
       
       {/* Product Image with Hover Zoom */}
       <div className="overflow-hidden rounded-t-lg">

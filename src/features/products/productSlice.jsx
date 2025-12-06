@@ -12,47 +12,47 @@ export const fetchProducts = createAsyncThunk(
         title: "Luxury Sofa",
         category: "Sofa",
         price: 25000,
-        image: "https://images.unsplash.com/photo-1600585154235-89f1d4d50f72?auto=format&fit=crop&w=600&q=80",
+        image: "https://images.pexels.com/photos/33724910/pexels-photo-33724910.jpeg",
         description: "A comfortable luxury sofa for your living room."
       },
       {
         id: 2,
         title: "Modern Chair",
         category: "Chair",
-        price: 5000,
-        image: "https://images.unsplash.com/photo-1600585154180-2d4f2b9ef9c8?auto=format&fit=crop&w=600&q=80",
+        price: 15000,
+        image: "https://images.pexels.com/photos/1350789/pexels-photo-1350789.jpeg",
         description: "Stylish modern chair with sleek design."
       },
       {
         id: 3,
-        title: "Elegant Dining Table",
+        title: "Dinner Table",
         category: "Table",
-        price: 18000,
-        image: "https://images.unsplash.com/photo-1616627983683-9e1ef6b84511?auto=format&fit=crop&w=600&q=80",
-        description: "Premium dining table perfect for family meals."
+        price: 55000,
+        image: "https://images.pexels.com/photos/7546548/pexels-photo-7546548.jpeg",
+        description: "Stylish modern dining table with sleek design."
       },
       {
         id: 4,
         title: "King Size Bed",
         category: "Bed",
-        price: 30000,
-        image: "https://images.unsplash.com/photo-1616627982916-f9f2f5dc6e7f?auto=format&fit=crop&w=600&q=80",
+        price: 53000,
+        image: "https://images.pexels.com/photos/7746105/pexels-photo-7746105.jpeg",
         description: "Spacious and comfortable king-size bed."
       },
       {
         id: 5,
         title: "Office Chair",
         category: "Chair",
-        price: 7000,
-        image: "https://images.unsplash.com/photo-1598300051421-f7d3b918b3d8?auto=format&fit=crop&w=600&q=80",
+        price: 27000,
+        image: "https://images.pexels.com/photos/12331457/pexels-photo-12331457.jpeg",
         description: "Ergonomic chair perfect for working from home."
       },
       {
         id: 6,
         title: "Coffee Table",
         category: "Table",
-        price: 4000,
-        image: "https://images.unsplash.com/photo-1616627983364-cf2061d2450a?auto=format&fit=crop&w=600&q=80",
+        price: 14000,
+        image: "https://images.pexels.com/photos/16815690/pexels-photo-16815690.jpeg",
         description: "Stylish coffee table for your living room."
       },
       {
@@ -60,23 +60,23 @@ export const fetchProducts = createAsyncThunk(
         title: "Wardrobe",
         category: "Bed",
         price: 20000,
-        image: "https://images.unsplash.com/photo-1598300041852-bf80b3d3eb97?auto=format&fit=crop&w=600&q=80",
+        image: "https://images.pexels.com/photos/1374125/pexels-photo-1374125.jpeg",
         description: "Spacious wardrobe to organize your clothes."
       },
       {
         id: 8,
         title: "Recliner Chair",
         category: "Chair",
-        price: 12000,
-        image: "https://images.unsplash.com/photo-1598300041854-6b0f6a2c52d1?auto=format&fit=crop&w=600&q=80",
+        price: 22000,
+        image: "https://images.pexels.com/photos/31911433/pexels-photo-31911433.png",
         description: "Relaxing recliner chair with premium padding."
       },
       {
         id: 9,
         title: "Nightstand",
         category: "Bed",
-        price: 3500,
-        image: "https://images.unsplash.com/photo-1616627983798-c38f1f62e2f4?auto=format&fit=crop&w=600&q=80",
+        price: 35000,
+        image: "https://images.pexels.com/photos/9899856/pexels-photo-9899856.jpeg",
         description: "Modern nightstand for bedroom essentials."
       },
       
@@ -84,8 +84,8 @@ export const fetchProducts = createAsyncThunk(
   id: 10,
   title: "Bookshelf",
   category: "Table",
-  price: 8000,
-  image: "https://images.pexels.com/photos/34314485/pexels-photo-34314485.jpeg",
+  price: 48000,
+  image: "https://images.pexels.com/photos/667838/pexels-photo-667838.jpeg",
   description: "Elegant bookshelf to keep your books organized."
 },
       {
@@ -93,15 +93,15 @@ export const fetchProducts = createAsyncThunk(
         title: "Accent Chair",
         category: "Chair",
         price: 6000,
-        image: "https://images.unsplash.com/photo-1616627983745-7e1ef6b84513?auto=format&fit=crop&w=600&q=80",
+        image: "https://images.pexels.com/photos/31594858/pexels-photo-31594858.jpeg",
         description: "Cozy accent chair for living room corners."
       },
       {
         id: 12,
         title: "Side Table",
         category: "Table",
-        price: 3500,
-        image: "https://images.unsplash.com/photo-1616627983745-7e1ef6b84514?auto=format&fit=crop&w=600&q=80",
+        price: 23500,
+        image: "https://images.pexels.com/photos/2196685/pexels-photo-2196685.jpeg",
         description: "Compact side table for convenience."
       }
     ];
